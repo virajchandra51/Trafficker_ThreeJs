@@ -7,8 +7,14 @@
 
         npm install
 
-2. npm install three
-3. npm install gui
+2. Install ThreeJs:
+
+        npm install three
+
+3.  Install Gui:
+
+        npm install gui
+
 4.  Run webpack:
 
         npm run dev
